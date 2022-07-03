@@ -1,2 +1,2 @@
-# CREDIT CARD-DEFAULT-PREDICTION__Supervised-ML-Classification
-Supervised ML Classification Problem
+# Coronary Heart Disease (CHD) Prediction 
+### By Supervised Machine Learning Algorithms Implementation On Patients’ Information.
